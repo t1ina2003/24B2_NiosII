@@ -6,8 +6,8 @@ module NiosII (clk, rst_n, led_output);
 
   niosii u0 (
     .clk_clk (clk),               // clk.clk
-    .pio_led_export (led_output), // pio_button_external_connection.export
-    .pio_rst_export (rst_n)       //pio_led_external_connection.export
+    .pio_led_export (led_output), // pio_led_external_connection.export
+    .pio_rst_export (rst_n)       //pio_rst_external_connection.export
   );
 
 endmodule

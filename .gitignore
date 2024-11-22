@@ -40,7 +40,7 @@
 # *.mif
 *.pin
 *.pof
-*.ptf.*When
+*.ptf
 *.qar
 *.qarlog
 *.qws
