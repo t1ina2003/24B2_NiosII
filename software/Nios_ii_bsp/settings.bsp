@@ -4,9 +4,9 @@
         <BspVersion>default</BspVersion>
         <BspGeneratedTimeStamp>2024/11/22 上午 11:17:49</BspGeneratedTimeStamp>
         <BspGeneratedUnixTimeStamp>1732245469047</BspGeneratedUnixTimeStamp>
-        <BspGeneratedLocation>C:\Users\zswang-x1\Downloads\001_Work\project\24B2_NiosII\software\Nios_ii_bsp</BspGeneratedLocation>
+        <BspGeneratedLocation>.\</BspGeneratedLocation>
         <BspSettingsFile>settings.bsp</BspSettingsFile>
-        <SopcDesignFile>C:\Users\zswang-x1\Downloads\001_Work\project\24B2_NiosII\niosii.sopcinfo</SopcDesignFile>
+        <SopcDesignFile>..\..\niosii.sopcinfo</SopcDesignFile>
         <SystemFileHash>8171e36765a1fd99f93e291eeef65025e7435135f3e8c31e3f90cda12fc1b65d</SystemFileHash>
         <JdiFile>default</JdiFile>
         <Cpu>nios2</Cpu>
