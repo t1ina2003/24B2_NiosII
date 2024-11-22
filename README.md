@@ -51,4 +51,4 @@ This project is open source and available under standard Intel FPGA IP license t
 Shawn ZS Wang
 
 ## Version
-1.0.0
+0.0.4
