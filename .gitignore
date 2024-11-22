@@ -61,6 +61,7 @@ db/
 incremental_db/
 simulation/
 output_files/
+.qsys_edit/
 
 # ignore Nios generated files
 *.objdump
