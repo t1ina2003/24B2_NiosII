@@ -73,10 +73,8 @@ output_files/
 !*.java
 
 # ignore Nios generated Folder
-.settings/
 bin/
 obj/
-.metadata/
 
 
 
